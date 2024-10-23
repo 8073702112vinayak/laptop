@@ -3,3 +3,28 @@ ssssssssssssssssssssssss
 vvvvvvvvvvvvvvvvvvvvvvvv
 rrrrrrrrrrrrrrrrrrrrrrrr
 ssssssssssssssssssssssss
+# laptop
+ssssssssssssssssssssssss
+vvvvvvvvvvvvvvvvvvvvvvvv
+rrrrrrrrrrrrrrrrrrrrrrrr
+ssssssssssssssssssssssss
+# laptop
+ssssssssssssssssssssssss
+vvvvvvvvvvvvvvvvvvvvvvvv
+rrrrrrrrrrrrrrrrrrrrrrrr
+ssssssssssssssssssssssss
+# laptop
+ssssssssssssssssssssssss
+vvvvvvvvvvvvvvvvvvvvvvvv
+rrrrrrrrrrrrrrrrrrrrrrrr
+ssssssssssssssssssssssss
+# laptop
+ssssssssssssssssssssssss
+vvvvvvvvvvvvvvvvvvvvvvvv
+rrrrrrrrrrrrrrrrrrrrrrrr
+ssssssssssssssssssssssss
+# laptop
+ssssssssssssssssssssssss
+vvvvvvvvvvvvvvvvvvvvvvvv
+rrrrrrrrrrrrrrrrrrrrrrrr
+ssssssssssssssssssssssss
